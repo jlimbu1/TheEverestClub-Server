@@ -1,5 +1,9 @@
-The Everest Club Server
+# The Everest Club Server
 
-Development: npm run dev
+## Development:
 
-Production: npm run start
+> npm run dev
+
+## Production:
+
+> npm run start
